@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+<WanJia>
+	<WanJia id="w_1" initial_life="5" initial_speed="2" bomb_number="1" initial_power="1">
+	</WanJia>
+</WanJia>

@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DjShow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DjShow.cs" Line="345" Column="67" />
+      <File FileName="Assets\Scripts\Destory.cs" Line="29" Column="4" />
+      <File FileName="Assets\Scripts\Move2.cs" Line="157" Column="15" />
+      <File FileName="Assets\Scripts\MagnetTest.cs" Line="28" Column="56" />
+      <File FileName="Assets\Scripts\Jinbi.cs" Line="8" Column="30" />
+      <File FileName="Assets\Scripts\Player.cs" Line="102" Column="47" />
+      <File FileName="Assets\Scripts\Scrollbar1.cs" Line="19" Column="42" />
+      <File FileName="Assets\Scripts\SaveData.cs" Line="99" Column="27" />
+      <File FileName="Assets\Scripts\KeepData.cs" Line="9" Column="21" />
+      <File FileName="Assets\Scripts\Pic.cs" Line="12" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

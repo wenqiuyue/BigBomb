@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+<map>
+	<Map zhu_ti="1" GuanQia="1" diren_number="5" map="q,q,q,q,q,q,q,q,q,q,q,q|z,dr_1,dr_2,l,l,l,l,dr_2,l,l,l,q|z,w_1,l,l,l,z,z,l,l,l,l,q|q,l,l,l,l,l,z,l,q,q,l,q|q,l,z,z,l,l,z,l,l,dr_1,l,q|z,l,l,l,z,z,z,z,z,l,dr_2,q|z,q,q,z,l,l,l,q,q,q,q,q" ItemGroup="2_1_2,2_2_5,2_3_15,3_1_4,3_6_10,3_7_15,4_7_6,5_3_2,5_10_15,6_1_3,6_6_6,6_9_4,7_1_7,7_4_3">
+	</Map>
+	<Map zhu_ti="1" GuanQia="2" diren_number="5" map="q,q,q,q,q,q,q,q,q,q,q,q|q,z,l,dr_3,l,l,l,l,l,l,w_1,q|q,l,z,l,l,z,z,l,l,l,l,q|q,l,l,z,l,l,l,l,z,z,z,q|q,l,l,l,z,l,dr_7,l,l,l,dr_4,q|q,dr_3,l,l,l,z,l,l,dr_2,l,l,q|q,q,q,q,q,q,q,q,q,q,q,q" ItemGroup="2_2_4,2_4_15,3_3_3,3_6_7,3_7_1,4_4_14,4_10_15,5_5_5,5_7_13,6_2_6,6_6_6">
+	</Map>
+	<Map zhu_ti="1" GuanQia="3" diren_number="5" map="q,q,q,q,q,q,q,q,q,q,q,q|q,z,l,l,l,l,l,l,l,l,dr_7,q|q,dr_6,z,l,l,q,l,dr_5,l,dr_1,l,q|q,l,l,z,l,l,z,z,z,l,l,q|q,l,l,z,l,q,z,l,l,l,dr_5,q|q,l,w_1,l,l,l,z,z,z,l,l,q|q,q,q,q,q,q,q,q,q,q,q,q" ItemGroup="2_2_15,2_11_9,3_2_14,3_3_6,3_8_15,4_4_8,4_8_15,4_9_6,5_4_10,5_7_11,5_11_12,6_7_7,6_8_14">
+	</Map>
+	<Map zhu_ti="1" GuanQia="4" diren_number="5" map="q,q,q,q,q,q,q,q,q,q,q,q|q,z,z,l,l,l,l,l,l,l,dr_8,q|q,dr_8,l,l,dr_9,l,z,z,z,l,l,q|q,z,z,l,l,l,z,dr_8,z,l,l,q|q,z,z,l,l,l,z,z,z,l,l,q|q,dr_7,z,w_1,l,l,l,l,l,l,dr_9,q|q,q,q,q,q,q,q,q,q,q,q,q" ItemGroup="2_2_13,2_3_5,2_11_11,3_2_15,3_5_8,3_7_1,3_9_14,4_2_2,4_3_13,4_7_7,4_8_14,4_9_10,5_2_5,5_7_1,5_8_9,6_2_10,6_3_7,6_11_15">
+	</Map>
+	<Map zhu_ti="1" GuanQia="5" diren_number="4" map="q,q,q,q,q,q,q,q,q,q,q,q|q,w_1,l,l,l,l,l,l,dr_9,l,l,q|q,l,l,l,l,l,l,l,l,l,l,q|q,l,z,z,z,l,dr_11,l,l,l,l,q|q,l,l,l,z,l,l,l,l,l,l,q|q,dr_1,l,l,l,z,z,l,l,l,dr_10,q|q,q,q,q,q,q,q,q,q,q,q,q" ItemGroup="2_9_14,4_3_10,4_4_13,4_5_12,4_7_15,5_5_5,6_2_11,6_6_15,6_7_8,6_11_3">
+	</Map>
+</map>

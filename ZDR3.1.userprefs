@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Map.cs">
+    <Files>
+      <File FileName="Assets\Scripts\JieSuo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Map.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bomb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Show1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Show.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoToZhuTi4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ztxiaoguo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BoardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scrollbar1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MyDj.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

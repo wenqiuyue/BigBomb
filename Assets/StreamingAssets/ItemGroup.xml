@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+<ItemGroup>
+	<ItemGroup Id="1" dj_id="d_1"  gai_lv="50">
+	</ItemGroup>
+	<ItemGroup Id="2" dj_id="d_2"  gai_lv="80">
+	</ItemGroup>
+	<ItemGroup Id="3" dj_id="d_3"  gai_lv="30">
+	</ItemGroup>
+	<ItemGroup Id="4" dj_id="d_4"  gai_lv="40">
+	</ItemGroup>
+	<ItemGroup Id="5" dj_id="d_5"  gai_lv="75">
+	</ItemGroup>
+	<ItemGroup Id="6" dj_id="d_6"  gai_lv="90">
+	</ItemGroup>
+	<ItemGroup Id="7" dj_id="d_7"  gai_lv="80">
+	</ItemGroup>
+	<ItemGroup Id="8" dj_id="d_8"  gai_lv="65">
+	</ItemGroup>
+	<ItemGroup Id="9" dj_id="d_9"  gai_lv="35">
+	</ItemGroup>
+	<ItemGroup Id="10" dj_id="d_10"  gai_lv="40">
+	</ItemGroup>
+	<ItemGroup Id="11" dj_id="d_11"  gai_lv="50">
+	</ItemGroup>
+	<ItemGroup Id="12" dj_id="d_12"  gai_lv="80">
+	</ItemGroup>
+	<ItemGroup Id="13" dj_id="d_13"  gai_lv="90">
+	</ItemGroup>
+	<ItemGroup Id="14" dj_id="d_14"  gai_lv="30">
+	</ItemGroup>
+	<ItemGroup Id="15" dj_id="d_15"  gai_lv="50">
+	</ItemGroup>
+</ItemGroup>

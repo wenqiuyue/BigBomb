@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+<boss>
+	<终极boss1 Id="dr_11" number="1"  initial_power="1" nitial_life="3" initial_speed="3" bomb_number="2" reaction_speed="1" carry_props ="d_7,d_12,d_4,d_11" zhao_huan="0" z_h_type="0" throh_bomb="0" throh_interval="0" safety_range="0">
+	</终极boss1>
+	<终极boss2 Id="dr_12" number="1"  initial_power="3" nitial_life="3" initial_speed="3" bomb_number="2" reaction_speed="1" carry_props ="d_7,d_12,d_4,d_11,d_1,d_3" zhao_huan="0" z_h_type="0" throh_bomb="0" throh_interval="0" safety_range="0">
+	</终极boss2>
+	<终极boss3 Id="dr_13" number="1"  initial_power="3" nitial_life="4" initial_speed="3" bomb_number="2" reaction_speed="1" carry_props ="d_7,d_12,d_4,d_11,d_1,d_3" zhao_huan="3" z_h_type="dr_1,dr_5,dr_9" throh_bomb="0" throh_interval="0" safety_range="0">
+	</终极boss3>
+	<终极boss4 Id="dr_14" number="1"  initial_power="3" nitial_life="4" initial_speed="3" bomb_number="2" reaction_speed="1" carry_props ="d_7,d_12,d_4,d_11,d_1,d_3" zhao_huan="5" z_h_type="dr_10,dr_8" throh_bomb="7" throh_interval="25" safety_range="9">
+	</终极boss4>
+</boss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+<Store>
+	<Store Id="1" GoodsName="慢慢胶" GoodsGold="3" SkillPoints="2">
+	</Store>
+	<Store Id="2" GoodsName="飞镖" GoodsGold="3" SkillPoints="6">
+	</Store>
+	<Store Id="3" GoodsName="陷阱" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="4" GoodsName="推手" GoodsGold="3" SkillPoints="2">
+	</Store>
+	<Store Id="5" GoodsName="幽灵" GoodsGold="1" SkillPoints="4">
+	</Store>
+	<Store Id="6" GoodsName="鞋子" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="7" GoodsName="炸弹" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="8" GoodsName="威力" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="9" GoodsName="透视镜" GoodsGold="3" SkillPoints="6">
+	</Store>
+	<Store Id="10" GoodsName="保护罩" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="11" GoodsName="超级泡泡" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="12" GoodsName="寒冰" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="13" GoodsName="磁铁" GoodsGold="3" SkillPoints="6">
+	</Store>
+	<Store Id="14" GoodsName="生命" GoodsGold="1" SkillPoints="2">
+	</Store>
+	<Store Id="15" GoodsName="金币" GoodsGold="1" SkillPoints="2">
+	</Store>
+</Store>

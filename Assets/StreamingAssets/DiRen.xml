@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+<DiRen>
+	<DiRen1 Id="dr_1" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7">
+	</DiRen1>
+	<DiRen2 Id="dr_2" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_1">
+	</DiRen2>
+	<DiRen3 Id="dr_3" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_3,d_1">
+	</DiRen3>
+	<DiRen4 Id="dr_4" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_4,d_11">
+	</DiRen4>
+	<DiRen5 Id="dr_5" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_5">
+	</DiRen5>
+	<DiRen6 Id="dr_6" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_11">
+	</DiRen6>
+	<DiRen7 Id="dr_7" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_12">
+	</DiRen7>
+	<DiRen8 Id="dr_8" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_4">
+	</DiRen8>
+	<DiRen9 Id="dr_9" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_1,d_12">
+	</DiRen9>
+	<DiRen10 Id="dr_10" number="4"  initial_power="1" nitial_life="1" initial_speed="2" bomb_number="1" reaction_speed="2" carry_props ="d_7,d_11,d_5">
+	</DiRen10>
+</DiRen>

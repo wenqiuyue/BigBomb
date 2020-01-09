@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+-->
+<DaoJu>
+  <DaoJu Id="d_1" effective_value="10" ItemName="慢慢胶"></DaoJu>
+  <DaoJu Id="d_2" effective_value="0" ItemName="飞镖"></DaoJu>
+  <DaoJu Id="d_3" effective_value="0" ItemName="陷阱"></DaoJu>
+  <DaoJu Id="d_4" effective_value="40" ItemName="推手"></DaoJu>
+  <DaoJu Id="d_5" effective_value="20" ItemName="幽灵"></DaoJu>
+  <DaoJu Id="d_6" effective_value="5" ItemName="透视镜"></DaoJu>
+  <DaoJu Id="d_7" effective_value="5" ItemName="保护罩"></DaoJu>
+  <DaoJu Id="d_8" effective_value="5" ItemName="超级泡泡"></DaoJu>
+  <DaoJu Id="d_9" effective_value="20" ItemName="寒冰"></DaoJu>
+  <DaoJu Id="d_10" effective_value="0" ItemName="磁铁"></DaoJu>
+  <DaoJu Id="d_11" effective_value="2" ItemName="鞋子"></DaoJu>
+  <DaoJu Id="d_12" effective_value="2" ItemName="炸弹"></DaoJu>
+  <DaoJu Id="d_13" effective_value="9" ItemName="威力"></DaoJu>
+  <DaoJu Id="d_14" effective_value="5" ItemName="生命"></DaoJu>
+  <DaoJu Id="d_15" effective_value="5" ItemName="技能点"></DaoJu>
+</DaoJu>
